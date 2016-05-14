@@ -23,6 +23,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @EnableAutoConfiguration
 @SpringBootApplication
 
+//lan sua thu 2
 public class MainApplication {
     @Bean
     public JpaVendorAdapter jpaVendorAdapter(){
